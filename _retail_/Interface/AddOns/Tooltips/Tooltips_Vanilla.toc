@@ -1,4 +1,4 @@
 ## Title: Tooltips
-## Interface: 100000
+## Interface: 11403
 
 Tooltips.lua
